@@ -1,5 +1,4 @@
 #include"pointer.h"
-#include"LeakTester.h"
 
 int main() {
     smart_ptr<int> p=new int(14);
